@@ -11,6 +11,7 @@ function theoryTotal(att, internals, insem, ese) {
 
 
 
+
 function labTo100(marks, max) {
   return (Number(marks || 0) / max) * 100;
 }
