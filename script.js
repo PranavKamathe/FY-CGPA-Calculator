@@ -1,3 +1,7 @@
+
+
+
+
 function theoryTotal(att, internals, insem, ese) {
   return Number(att || 0) + Number(internals || 0) +
          Number(insem || 0) + Number(ese || 0);
